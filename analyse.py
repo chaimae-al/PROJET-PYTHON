@@ -1,4 +1,4 @@
-# from data import charger_donnees
+from data import charger_donnees
 
 
 def analyser_impact():
